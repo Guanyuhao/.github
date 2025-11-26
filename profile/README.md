@@ -17,7 +17,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Guanyuhao {
+contract LucasGG {
     string public role = "Software Engineer & Web3 Builder";
     string public background = "Ex-ByteDance Frontend Engineer";
     string public location = "Beijing, China 🇨🇳";
