@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 GM, I'm Guanyuhao
+# 👋 GM, I'm Lucas.gg
 
 ### 🔗 Web3 Builder | 💻 Full-Stack Engineer | 🚀 Product Innovator
 
@@ -128,38 +128,83 @@ graph LR
 - **AI 集成**: 将人工智能融入产品，提升用户体验
 - **架构设计**: 高可用、高性能的系统架构规划与实现
 
-## ⚡ 精选项目
+## 📊 代码时光机
 
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🎯 [30-seconds-of-code](https://github.com/Guanyuhao/30-seconds-of-code)
+<div align="center">
 
-> 📚 精选的 JavaScript 代码片段合集
-> 
-> ⏱️ 每个片段 30 秒内理解
-> 
-> 🚀 提升开发效率的利器
-> 
-> ![Stars](https://img.shields.io/github/stars/Guanyuhao/30-seconds-of-code?style=social)
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ ║
+║     ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ ║
+║     ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗║
+║     ██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║║
+║     ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝║
+║     ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ║
+║                                                               ║
+║              🌐 Web3  ×  🤖 AI  ×  ⚡ Full-Stack              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-    </td>
-    <td width="50%">
-      
-### 🌐 更多 Web3 项目
+</div>
 
-> ⛓️ DApp 应用开发
-> 
-> 📝 智能合约实践
-> 
-> 🔗 去中心化解决方案
-> 
-> 🤖 AI × Blockchain 融合
+<div align="center">
 
-    </td>
-  </tr>
-</table>
+### 🎯 技能矩阵
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 GitHub 统计
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guanyuhao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guanyuhao&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guanyuhao&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=Guanyuhao&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```diff
++ 🚀 持续构建 | ⚡ 不断创新 | 🌐 拥抱未来
+```
+
+</div>
 
 ## 🏆 GitHub 成就
 
